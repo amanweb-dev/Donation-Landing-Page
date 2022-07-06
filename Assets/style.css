@@ -31,7 +31,6 @@ p{
     font-size: 18px;
     width: 70%;
     margin: 20px auto;
-
 }
 .header .header-content button, .donation-form .header-form-element button{
     padding: 10px;
@@ -41,7 +40,6 @@ p{
     color: #ffffff;
     font-size: 16px;
 }
-
 .donation-form{
     width: 60%;
     display: flex;
@@ -51,18 +49,15 @@ p{
     padding: 50px;
     margin: auto;
 }
-
 .donation-form .header-form-element h1{
     font-size: 45px;
     font-weight: bold;
 }
-
 .donation-form .header-form-element p{
     font-size: 18px;
     color: #707070;
     margin-bottom: 50px;
 }
-
 .donation-form .header-form-element .amount-list span{
   font-size: 30px;
   font-weight: bold;
@@ -71,15 +66,12 @@ p{
   margin: 10px 20px;
   display: inline-block;
   background-color: #FAFAFA;
-  
-
 }
 .donation-form .header-form-element span.selected-amount{
     color: #FF5959;
     border: 2px solid #FF5959;
     background-color: #FFEEEE;
 }
-
 .donation-form .header-form-element input[type=text]{
     border: none;
     outline: none;
@@ -88,14 +80,12 @@ p{
     margin-bottom: 10px; 
     color: #707070;
 }
-
 .donation-form .header-form-element hr{
     width: 60%;
     margin: auto;
     margin-bottom: 20px;
     color: #707070;
 }
-
 .donation-plan-area-top{
     text-align: center;
     width: 50%;
@@ -105,12 +95,10 @@ p{
     font-size: 45px;
     font-weight: bold;
 }
-
 .donation-plan-area-top p{
     font-size: 18px;
     color: #707070;
 }
-
 .donation-box-content{
     display: flex;
     width: 80%;
@@ -122,55 +110,44 @@ p{
    border-radius: 5px;
    width: 28%;
 }
-
 .donation-box-content .single-donation-box-content h2{
     font-size: 24px;
  }
-
  .donation-box-content .single-donation-box-content p{
     color: #707070;
     font-size: 16px;
  }
-
 .single-donation-box-content#box-content-one{
     background-color: #4fa6884b;
 }
-
 .single-donation-box-content#box-content-two{
     background-color: #ff59591e;
 }
-
 .single-donation-box-content#box-content-three{
     background-color: #FFF4D6;
 }
-
 .our-donation-stories{
     display: block;
     overflow: hidden;
     margin-top: 50px;
 }
-
 .our-donation-stories-header{
     text-align: center;
 }
 .our-donation-stories-header h1{
     font-size: 45px;
-    font-weight: bold;
-    
+    font-weight: bold; 
 }
-
 .our-donation-stories-header p{
     font-size: 18px;
     color: #707070;
     width: 50%;
     margin: auto;
-   
 }
 .our-stories-box-content{
     width: 100%;
     display: block;
 }
-
 .our-stories-single-box-content {
     width: 44%;
     /* height: 400px; */
@@ -179,7 +156,6 @@ p{
     margin: 2% -2% 0% 5%;
     position: relative;
 }
-
 .stories-box-overlay-content {
     position: absolute;
     bottom: 20px;
@@ -190,11 +166,9 @@ p{
     padding: 0 20px;
     border-radius: 8px;
 }
-
 .our-stories-single-box-content img{
     height: 400px;
     width: 100%;
-
 }
 .subscription-area{
     text-align: center;
@@ -202,18 +176,15 @@ p{
     overflow: hidden;
     margin-top: 50px;
 }
-
 .subscription-area h1{
     font-size: 45px;
-    font-weight: bold;
-    
+    font-weight: bold;  
 }
 .subscription-area p{
     font-size: 18px;
     color: #707070;
     width: 50%;
     margin: auto;
-   
 }
 .subscribe-box {
     width: 50%;
@@ -221,7 +192,6 @@ p{
     padding: 60px 30px;
     background: #FFF4D6;
 }
-
 .subscribe-box input[type=email]{
     background-color: #D9D9D9;
     outline: none;border: none;
@@ -230,7 +200,6 @@ p{
     margin-right: 0;
     border-radius: 5px 0 0 5px;
   }
-
   .subscribe-box input[type=submit] {
     padding: 10px;
     border: none;
@@ -239,14 +208,12 @@ p{
     margin-left: -5px;
     border-radius: 0 5px 5px 0px;
 }
-
 footer{
 text-align: center;
 background-color: #0B0D17;
 padding: 20px 0;
 margin-top: 50px;
 }
-
 footer h1{
   color: #FF5959; 
   margin-bottom: 0; 
@@ -257,7 +224,3 @@ footer p{
     font-size: 18px;
     color: gray;  
   }
-
-
-
-
